@@ -130,7 +130,7 @@ ORDER BY total_revenue DESC;
 ```
 ## Power BI Dashboard
 
-![Customer Behavior Dashboard](assets/customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](customer_behavior_Dashboard.png)
 
 ## Key Insights
 
